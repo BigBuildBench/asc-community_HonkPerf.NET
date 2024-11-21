@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>HonkPerf.NET.RefLinq</PackageId>
+    <Product>HonkPerf.NET.RefLinq</Product>
+
+    <PackageReleaseNotes>First release</PackageReleaseNotes>
+    <PackageTags>$(PackageTags), linq, performance, allocation</PackageTags>
+    <RepositoryUrl>https://github.com/asc-community/HonkPerf.NET</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
